@@ -1,5 +1,7 @@
 # Mind Health Network: ECCE App Challenge 2018
 
+![Mental Health Logo](C:/Users/Alexandar/Desktop/resizelogo.png)
+
 **Team Members**: 
 ---
 * Alice Naphtali 
