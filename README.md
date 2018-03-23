@@ -1,3 +1,4 @@
+# Mind Health Network: ECCE App Challenge 2018
 
 **Team Members**: 
 ---
