@@ -1,6 +1,6 @@
 # Mind Health Network: ECCE App Challenge 2018
 
-![Mental Health Logo](C:/Users/Alexandar/Desktop/resizelogo.png)
+![Mental Health Logo](brandinglogo.png)
 
 **Team Members**: 
 ---
