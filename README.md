@@ -19,3 +19,15 @@ Using a heterogenous mix of open data, our streamlined application serves as a c
 ## **App Inspiration**
 
 This app was created to reduce the disparity in Toronto based mental health locators currently. As it stands no platform provides such detailed information, let alone filtering such information by urgency and providing valuable feedback for a service. This app seeks to empower the user to take positive steps toward achieving mental well-being and helping others in need. We hope that this application can be scaled to the provincial level, and even the national level in the future to extend our platform, mission and ideology. 
+
+---
+*Data Sources*
+
+1. www.ementalhealth.ca
+2. www.ratemd.com
+3. www.torontocentralhealthline.ca
+4. www.yelp.ca/toronto
+5. www.yellowpages.ca/search/si/1/Telephone+Directories/Toronto+ON
+6. www.ontario.ca/search/data-catalogue
+7. www.toronto.ca/city-government/data-research-maps/open-data/
+8. www.211toronto.ca
