@@ -12,7 +12,7 @@
 **Our team name is derived from the Hawaiian word for brain.**
 
 ## Accessing resources:
-* Click [here](https://tinyurl.com/y9kk4vdm) for the application.
+* Click [here](https://mcmaster.maps.arcgis.com/apps/webappviewer/index.html?id=bed0783fe480486eb928bfa6f2ed9366) for the application.
 * Click [here](https://www.youtube.com/watch?v=wn_w3Duw07k&feature=youtu.be) for the video.
 
 ## Mind Health Network App
