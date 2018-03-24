@@ -8,7 +8,7 @@
 * Cinye Li
 * Kevin Chau
 * Alexandar Ristic
----
+
 **Our team name is derived from the Hawaiian word for brain. 
 
 ## Accessing the website:
