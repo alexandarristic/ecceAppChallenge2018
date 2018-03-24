@@ -9,7 +9,7 @@
 * Kevin Chau
 * Alexandar Ristic
 
-**Our team name is derived from the Hawaiian word for brain. 
+**Our team name is derived from the Hawaiian word for brain.**
 
 ## Accessing the website:
 Click [here](https://tinyurl.com/y9kk4vdm)
