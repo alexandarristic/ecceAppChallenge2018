@@ -11,8 +11,9 @@
 
 **Our team name is derived from the Hawaiian word for brain.**
 
-## Accessing the website:
-Click [here](https://tinyurl.com/y9kk4vdm)
+## Accessing resources:
+Click [here](https://tinyurl.com/y9kk4vdm) for the application.
+Click [here]() for the video.
 
 ## **About our App**
 Using a heterogenous mix of open data, our streamlined application serves as a centralized hub for mental health services within central Toronto. It displays stylized symbols for each of the three urgency categories of a given service (*"Need Help","Need Support","Need Information"*). Additionally, it allows users to search services by urgency and available dates, find services in close proximity (within 5 km) to their current location, rate the quality of their experience with a service (*using Survey123*) and provide shortest routes to a facility of a user's choice. Any other widgets or functionality which are unclear can **likely** be clarified with the How to Widget on the header. 
@@ -33,3 +34,7 @@ This app was created to reduce the disparity in Toronto based mental health loca
 6. www.ontario.ca/search/data-catalogue
 7. www.toronto.ca/city-government/data-research-maps/open-data/
 8. www.211toronto.ca
+9. PACIFIC SUN by Nicolai Heidlas Music https://soundcloud.com/nicolai-heidlas
+Creative Commons — Attribution 3.0 Unported— CC BY 3.0 
+http://creativecommons.org/licenses/b...
+Music promoted by Audio Library https://youtu.be/kbqmEJTr3nU
