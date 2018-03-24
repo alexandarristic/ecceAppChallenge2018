@@ -14,6 +14,7 @@
 ## Accessing resources:
 * Click [here](https://mcmaster.maps.arcgis.com/apps/webappviewer/index.html?id=bed0783fe480486eb928bfa6f2ed9366) for the application.
 * Click [here](https://www.youtube.com/watch?v=wn_w3Duw07k&feature=youtu.be) for the video.
+* Click [here](https://drive.google.com/drive/folders/1Rc_ykU-xArIh4TP_mc1Rl8S7Vb9oLP69) to download the files for this project.
 
 ## Mind Health Network App
 ## Team Kalolo | ESRI 2018 ECCE App Challenge
