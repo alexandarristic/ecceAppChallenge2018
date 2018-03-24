@@ -95,7 +95,9 @@ As an additional side note, the primary sources of information on pharmacies and
 
 ## Video Development
 
-PACIFIC SUN by Nicolai Heidlas Music https://soundcloud.com/nicolai-heidlas Creative Commons — Attribution 3.0 Unported— CC BY 3.0 http://creativecommons.org/licenses/b... Music promoted by Audio Library https://youtu.be/kbqmEJTr3nU
+PACIFIC SUN by Nicolai Heidlas Music https://soundcloud.com/nicolai-heidlas Creative Commons — Attribution 3.0 Unported— CC BY 3.0 
+
+Music promoted by Audio Library https://youtu.be/kbqmEJTr3nU
 
 
 ## Limitations
