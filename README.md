@@ -21,7 +21,7 @@
 
 **Mission Statement**
 
-Mental illness is exceptionally common in Canada, with 1 in 5 Canadians experiencing a mental issue every year.1 Such illnesses predominantly affect adolescents between 15-24, with about a quarter of such individuals taking their own lives.2 In the majority of such cases, assistance from health professionals and community-based services can have profound benefits on those suffering from mental health conditions. Yet roughly 75% of the individuals affected have not visited such services.3 This is principally due to the confusing nature of the mental health services available to individuals in Ontario, with many unsure where to begin searching for help, where to go for a particular type of problem, and what types of services are available to them. 
+Mental illness is exceptionally common in Canada, with 1 in 5 Canadians experiencing a mental issue every year <sup>1</sup>. Such illnesses predominantly affect adolescents between 15-24, with about a quarter of such individuals taking their own lives <sup>2</sup>. In the majority of such cases, assistance from health professionals and community-based services can have profound benefits on those suffering from mental health conditions. Yet roughly 75% of the individuals affected have not visited such services <sup>3</sup>. This is principally due to the confusing nature of the mental health services available to individuals in Ontario, with many unsure where to begin searching for help, where to go for a particular type of problem, and what types of services are available to them. 
 
 It is of paramount importance to simplify the process of seeking and receiving mental health support in Canada’s most populated city. A free and open service that informs members of the public, especially vulnerable youths, of local mental health services in an accessible and intuitive manner will build effective support networks for those in need. However, as it stands, there is no centralized platform that provides such information. Furthermore, there are no services that categorize a given facility by urgency of the demand (e.g simply seeking information or requiring urgent care) or provide valuable and consistent feedback on the performance of facilities, facility staff, and overall patient satisfaction of the treatments received.
 
@@ -35,7 +35,7 @@ The Mind Health Network app strives to connect the citizens of central Toronto t
  
 2.) To connect Torontonians to an extensive network of available mental health professionals and services in the downtown core of the city (encompassing 8 adjacent wards)
  
-3.) To provides users with an anonymous platform to inform one another of the quality of a given healthcare service through the completion of a 12-question, 123 Survey
+3.) To provides users with an anonymous platform to inform one another of the quality of a given healthcare service through the completion of a 12-question, 123 Survey.
 
 ---
 **Using the Mind Health Network App**
@@ -105,6 +105,7 @@ Music promoted by Audio Library https://youtu.be/kbqmEJTr3nU
 
 * Due to an open data constraint and irregular update schedules, data is current only upto 2016.
 * The data only cover 8 central Toronto wards and thus may not fully represent all services in the city.
+* The 123 Survey is provided as an optional service with the results it provides varying due to subjective experiences. 
 
 ### References
 
