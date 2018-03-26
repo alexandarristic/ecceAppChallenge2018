@@ -91,7 +91,7 @@ The Mind Health Network relies on only free and open data sources that are avail
 * www.toronto.ca/city-government/data-research-maps/open-data/
 * www.211toronto.ca
 
-As an additional side note, the primary sources of information on pharmacies and other healthcare facilities, such as emergency departments and crisis centres, were taken from the City of Toronto and Province of Ontario’s open databases, as listed above. However, additional information on the top-rated psychologists, therapists, psychiatrists, family doctors, community groups were based off of free, community resources 
+As an additional side note, the primary sources of information on pharmacies and other healthcare facilities, such as emergency departments and crisis centres, were taken from the City of Toronto and Province of Ontario’s open databases, as listed above. However, additional information on the top-rated psychologists, therapists, psychiatrists, family doctors, community groups were based off of free, community resources. The above resources were geocoded using ArcGIS Pro and ESRI's world geocoder. 
 
 
 ## Video Development
