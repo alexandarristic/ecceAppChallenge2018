@@ -109,7 +109,7 @@ Music promoted by Audio Library https://youtu.be/kbqmEJTr3nU
 
 ### References
 
-1.  Smetanin et al. (2011). The life and economic impact of major mental illnesses in Canada: 2011-2041. Prepared for the Mental Health Commission of Canada. Toronto: RiskAnalytica.
+1.  Smetanin et al. (2011). The life and economic impact of major mental illnesses in Canada: 2011-2041. Prepared for the Mental Health Commission of Canada. Toronto: RiskAnalytica. 
 
 1.  Pearson, Janz and Ali (2013). Health at a glance: Mental and substance use disorders in Canada. Statistics Canada Catalogue no. 82-624-X.
 
