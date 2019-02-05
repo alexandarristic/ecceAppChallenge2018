@@ -48,37 +48,38 @@ Preamble
 ---
 # Steps to Use the App
 
-**Accessing the App and Widget Details**
+## Accessing the App and Widget Details
 
-View the live web app by clicking on the following the link: https://arcg.is/1ubq55 
-View a video demoing how to work with the app here: https://www.youtube.com/watch?v=wn_w3Duw07k&feature=youtu.be
+* View the live web app by clicking on the following the link: https://arcg.is/1ubq55 
+* View a video demoing how to work with the app here: https://www.youtube.com/watch?v=wn_w3Duw07k&feature=youtu.be
 
-* About and How-To Widget Documentation*
+## About and How-To Widget Documentation
 
 When users first open the Mind Health Network app, they will be greeted by a message box that will inform them to seek immediate help in the event of a personal crisis and an unfurled About widget panel on the right. Users may scroll down the panel to read more about the urgency level parameters and specific definitions used to group facilities in each category. 
 
   The About widget panel will also include a link to the optional 12 question 123 Survey at the end, which helps to gauge community comments on the quality of mental health services used. There is also another link to the completely confidential and anonymous results of the community-collected information on said mental health services to provide future reference for interested patients or medical providers. If the user is still confused or wants further detail about widget functionality, they can click on the How-To widget located, which is located next to the About widget. Here, they will be provided with a detailed breakdown of the functionality of each of the widgets they can use.
 
-**Search for Mental Health Services by Urgency Level**
+## Search for Mental Health Services by Urgency Level
 
 With the search widget, users can filter the service they’re looking for by urgency level (Need Help, Need Support, Need Information), the type of service (e.g. Pharmacy, Community Centre etc.) and available days with the provided dropdowns. After submitting their search criteria, the interactive results pane will display a list of relevant locations that meet users’ requirements, and allow users to zoom in and view detailed information on a location-by-location basis.
 
-**Search for Mental Health Services Near You**
+## Search for Mental Health Services Near You
 
 Using a modified version of the Near Me widget, users can find locations within a specified radius (1-5 kilometers) of their current location. Users can edit such distances as they desire using an interactive slider and then see a drop-down of all the locations that meet the specified distance criteria.
 
-**Find Directions to Your Chosen Mental Health Facility**
+## Find Directions to Your Chosen Mental Health Facility
 
 Using the directions, or Where To widget, a user can specify an origin and destination for a trip, such as to a mental health service, a mode of transportation (car or walking), and time or distance impedance parameters to create a shortest route path between these two points. As well, users have the option to insert waypoints with the add dialog to factor in brief stops towards their final destination. 
 
-*Navigating the Mental Facilities Layers and Sharing!*
+## Navigating the Mental Facilities Layers and Sharing!
+
 If a user desires to look at all available, top-rated mental health facilities in central Toronto, they may click on the Layer List widget and toggle on and off different types of mental health services available in the region. Users may also look to the Legend widget so that they are able to distinguish between the different types of mental health providers, facilities, and services
 
 ---
 
 # Attributions
 
-**Data Sources**
+## Data Sources
 
 The Mind Health Network relies on only free and open data sources that are available online for public use, such as:
 
@@ -94,24 +95,23 @@ The Mind Health Network relies on only free and open data sources that are avail
 As an additional side note, the primary sources of information on pharmacies and other healthcare facilities, such as emergency departments and crisis centres, were taken from the City of Toronto and Province of Ontario’s open databases, as listed above. However, additional information on the top-rated psychologists, therapists, psychiatrists, family doctors, community groups were based off of free, community resources. The above resources were geocoded using ArcGIS Pro and ESRI's world geocoder. 
 
 
-**Video Development**
+## Video Development
 
 PACIFIC SUN by Nicolai Heidlas Music https://soundcloud.com/nicolai-heidlas Creative Commons — Attribution 3.0 Unported— CC BY 3.0 
 
 Music promoted by Audio Library https://youtu.be/kbqmEJTr3nU
 
-
-**Limitations**
+## Limitations
 
 * Due to an open data constraint and irregular update schedules, data is current only upto 2016.
 * The data only cover 8 central Toronto wards and thus does not fully represent all services in the city.
 * The 123 Survey is provided as an optional service with its usefulness varying due to subjective experiences. 
 
-**References**
+## References
 
-1.  Smetanin et al. (2011). The life and economic impact of major mental illnesses in Canada: 2011-2041. Prepared for the Mental Health Commission of Canada. Toronto: RiskAnalytica. 
+1.  Smetanin et al. (2011). [The life and economic impact of major mental illnesses in Canada: 2011-2041](https://www.mentalhealthcommission.ca/sites/default/files/MHCC_Report_Base_Case_FINAL_ENG_0_0.pdf). Prepared for the Mental Health Commission of Canada. Toronto: RiskAnalytica. 
 
-1.  Pearson, Janz and Ali (2013). Health at a glance: Mental and substance use disorders in Canada. Statistics Canada Catalogue no. 82-624-X.
+2.  Pearson, Janz and Ali (2013). [Health at a glance: Mental and substance use disorders in Canada](https://www150.statcan.gc.ca/n1/en/pub/82-624-x/2013001/article/11855-eng.pdf?st=bXtDfKvV). Statistics Canada Catalogue no. 82-624-X.
 
-1.  Waddell et al. (2005). A public health strategy to improve the mental health of Canadian children.Canadian Journal of Psychiatry, 50: 226-33.
+3.  Waddell et al. (2005). [A public health strategy to improve the mental health of Canadian children](https://journals.sagepub.com/doi/pdf/10.1177/070674370505000406). Canadian Journal of Psychiatry, 50: 226-33.
 
