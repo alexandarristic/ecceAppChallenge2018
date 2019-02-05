@@ -21,11 +21,11 @@
 
 **Mission Statement**
 
-    Mental illness is exceptionally common in Canada, with 1 in 5 Canadians experiencing a mental issue every year <sup>1</sup>. Such illnesses predominantly affect adolescents between 15-24, with about a quarter of such individuals taking their own lives <sup>2</sup>. In the majority of such cases, assistance from health professionals and community-based services can have profound benefits on mental wellbeing,yet roughly 75% of the individuals affected have not visited such services <sup>3</sup>. This is principally due to the confusing nature of mental health services available to individuals in Ontario, with many unsure where to begin searching for help, where to go for a particular type of problem, and what types of services are available to them. 
+Mental illness is exceptionally common in Canada, with 1 in 5 Canadians experiencing a mental issue every year <sup>1</sup>. Such illnesses predominantly affect adolescents between 15-24, with about a quarter of such individuals taking their own lives <sup>2</sup>. In the majority of such cases, assistance from health professionals and community-based services can have profound benefits on mental wellbeing,yet roughly 75% of the individuals affected have not visited such services <sup>3</sup>. This is principally due to the confusing nature of mental health services available to individuals in Ontario, with many unsure where to begin searching for help, where to go for a particular type of problem, and what types of services are available to them. 
 
-   Thus, it is of paramount importance to simplify the process of seeking and receiving mental health support. By providing a free and open service that informs members of the public, especially vulnerable youths, of local mental health services in an accessible and intuitive manner, we can help build effective support networks for those in need. However;as it stands, there is no centralized platform that provides such information. Furthermore, there are no existing services that categorize a given facility by urgency of the demand (e.g simply seeking information or requiring urgent care) or provide valuable and consistent feedback on the performance of facilities, facility staff, and overall patient satisfaction of the treatments received.
+Thus, it is of paramount importance to simplify the process of seeking and receiving mental health support. By providing a free and open service that informs members of the public, especially vulnerable youths, of local mental health services in an accessible and intuitive manner, we can help build effective support networks for those in need. However;as it stands, there is no centralized platform that provides such information. Furthermore, there are no existing services that categorize a given facility by urgency of the demand (e.g simply seeking information or requiring urgent care) or provide valuable and consistent feedback on the performance of facilities, facility staff, and overall patient satisfaction of the treatments received.
 
-   Our application seeks to satisfy these needs by alleviating the burdens of untreated mental illnesses. The Mind Health Network provides the public a centralized means of locating mental health services in close proximity to the downtown Toronto core, as well as organizing such locations by urgency. Furthermore, we allow users to rate the quality of their experiences with a particular service utilizing a short, 12 question Survey123 form embedded in our application. We hope that this "proof of concept" application can be scaled to the provincial level, and even the national level in the future, to extend our platform and mission for a more integrated system of mental health support.
+Our application seeks to satisfy these needs by alleviating the burdens of untreated mental illnesses. The Mind Health Network provides the public a centralized means of locating mental health services in close proximity to the downtown Toronto core, as well as organizing such locations by urgency. Furthermore, we allow users to rate the quality of their experiences with a particular service utilizing a short, 12 question Survey123 form embedded in our application. We hope that this "proof of concept" application can be scaled to the provincial level, and even the national level in the future, to extend our platform and mission for a more integrated system of mental health support.
 
 **Our Goals**
 
@@ -76,9 +76,9 @@ If a user desires to look at all available, top-rated mental health facilities i
 
 ---
 
-# Data Sources
+# Attributions
 
-App Development
+**Data Sources**
 
 The Mind Health Network relies on only free and open data sources that are available online for public use, such as:
 
@@ -94,20 +94,20 @@ The Mind Health Network relies on only free and open data sources that are avail
 As an additional side note, the primary sources of information on pharmacies and other healthcare facilities, such as emergency departments and crisis centres, were taken from the City of Toronto and Province of Ontario’s open databases, as listed above. However, additional information on the top-rated psychologists, therapists, psychiatrists, family doctors, community groups were based off of free, community resources. The above resources were geocoded using ArcGIS Pro and ESRI's world geocoder. 
 
 
-## Video Development
+**Video Development**
 
 PACIFIC SUN by Nicolai Heidlas Music https://soundcloud.com/nicolai-heidlas Creative Commons — Attribution 3.0 Unported— CC BY 3.0 
 
 Music promoted by Audio Library https://youtu.be/kbqmEJTr3nU
 
 
-## Limitations
+**Limitations**
 
 * Due to an open data constraint and irregular update schedules, data is current only upto 2016.
-* The data only cover 8 central Toronto wards and thus may not fully represent all services in the city.
-* The 123 Survey is provided as an optional service with the results it provides varying due to subjective experiences. 
+* The data only cover 8 central Toronto wards and thus does not fully represent all services in the city.
+* The 123 Survey is provided as an optional service with its usefulness varying due to subjective experiences. 
 
-### References
+**References**
 
 1.  Smetanin et al. (2011). The life and economic impact of major mental illnesses in Canada: 2011-2041. Prepared for the Mental Health Commission of Canada. Toronto: RiskAnalytica. 
 
