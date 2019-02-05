@@ -13,27 +13,27 @@
 
 ## Accessing resources:
 * Click [here](https://mcmaster.maps.arcgis.com/apps/webappviewer/index.html?id=bed0783fe480486eb928bfa6f2ed9366) for the application.
-* Click [here](https://www.youtube.com/watch?v=wn_w3Duw07k&feature=youtu.be) for the video.
-* Click [here](https://drive.google.com/drive/folders/1Rc_ykU-xArIh4TP_mc1Rl8S7Vb9oLP69) to download the files for this project.
+* Click [here](https://www.youtube.com/watch?v=wn_w3Duw07k&feature=youtu.be) for a video demonstration.
+* Click [here](https://drive.google.com/drive/folders/1Rc_ykU-xArIh4TP_mc1Rl8S7Vb9oLP69) to download associated files for this project.
 
 ## Mind Health Network App
 ## Team Kalolo | ESRI 2018 ECCE App Challenge
 
 **Mission Statement**
 
-Mental illness is exceptionally common in Canada, with 1 in 5 Canadians experiencing a mental issue every year <sup>1</sup>. Such illnesses predominantly affect adolescents between 15-24, with about a quarter of such individuals taking their own lives <sup>2</sup>. In the majority of such cases, assistance from health professionals and community-based services can have profound benefits on those suffering from mental health conditions. Yet roughly 75% of the individuals affected have not visited such services <sup>3</sup>. This is principally due to the confusing nature of the mental health services available to individuals in Ontario, with many unsure where to begin searching for help, where to go for a particular type of problem, and what types of services are available to them. 
+    Mental illness is exceptionally common in Canada, with 1 in 5 Canadians experiencing a mental issue every year <sup>1</sup>. Such illnesses predominantly affect adolescents between 15-24, with about a quarter of such individuals taking their own lives <sup>2</sup>. In the majority of such cases, assistance from health professionals and community-based services can have profound benefits on mental wellbeing,yet roughly 75% of the individuals affected have not visited such services <sup>3</sup>. This is principally due to the confusing nature of mental health services available to individuals in Ontario, with many unsure where to begin searching for help, where to go for a particular type of problem, and what types of services are available to them. 
 
-It is of paramount importance to simplify the process of seeking and receiving mental health support in Canada’s most populated city. A free and open service that informs members of the public, especially vulnerable youths, of local mental health services in an accessible and intuitive manner will build effective support networks for those in need. However, as it stands, there is no centralized platform that provides such information. Furthermore, there are no services that categorize a given facility by urgency of the demand (e.g simply seeking information or requiring urgent care) or provide valuable and consistent feedback on the performance of facilities, facility staff, and overall patient satisfaction of the treatments received.
+   Thus, it is of paramount importance to simplify the process of seeking and receiving mental health support. By providing a free and open service that informs members of the public, especially vulnerable youths, of local mental health services in an accessible and intuitive manner, we can help build effective support networks for those in need. However;as it stands, there is no centralized platform that provides such information. Furthermore, there are no existing services that categorize a given facility by urgency of the demand (e.g simply seeking information or requiring urgent care) or provide valuable and consistent feedback on the performance of facilities, facility staff, and overall patient satisfaction of the treatments received.
 
-Our application seeks to satisfy these needs by alleviating the burdens of untreated mental illnesses. Mind Health Network provides the public a centralized means of locating mental health services in close proximity to the downtown Toronto core, as well as organizing such locations by urgency. Furthermore, we allow users to  rate the quality of their experiences with a service utilizing a short, 12 question Survey123 form embedded in our application. We hope that this application can be scaled to the provincial level, and even the national level in the future, to extend our platform and mission for a more integrated system of mental health support.
+   Our application seeks to satisfy these needs by alleviating the burdens of untreated mental illnesses. The Mind Health Network provides the public a centralized means of locating mental health services in close proximity to the downtown Toronto core, as well as organizing such locations by urgency. Furthermore, we allow users to rate the quality of their experiences with a particular service utilizing a short, 12 question Survey123 form embedded in our application. We hope that this "proof of concept" application can be scaled to the provincial level, and even the national level in the future, to extend our platform and mission for a more integrated system of mental health support.
 
 **Our Goals**
 
-The Mind Health Network app strives to connect the citizens of central Toronto to the medical and mental health establishments that best suit their needs, when they need it. To this end, the three main objectives we hope to fulfill are as follows:
+The Mind Health Network app strives to connect the citizens of central Toronto to the medical and mental health establishments that best suit their needs, when and where they need them. Towards this end, the three main objectives we hope to fulfill are:
  
-1.) To improve awareness and promote public education of existing types of mental health facilities, professionals, and services in central Toronto, depending on the urgency level of their mental health condition(s)
+1.) To improve awareness and promote public education of existing types of mental health facilities, professionals, and services in central Toronto, depending on the urgency level of their mental health condition(s);
  
-2.) To connect Torontonians to an extensive network of available mental health professionals and services in the downtown core of the city (encompassing 8 adjacent wards)
+2.) To connect Torontonians to an extensive network of available mental health professionals and services in the downtown core of the city (encompassing 8 adjacent wards);
  
 3.) To provides users with an anonymous platform to inform one another of the quality of a given healthcare service through the completion of a 12-question, 123 Survey.
 
@@ -42,23 +42,22 @@ The Mind Health Network app strives to connect the citizens of central Toronto t
 
 Preamble
 
-With the Mind Health Network app, we hope to bring an easy, clear, and intuitive navigation system and community-building enterprise with calming visual aesthetics. Users can easily find the services they are looking for alongside all relevant information by the selected urgency of their mental health needs. We designed the Mind Mental Network in such a way as to require very little time for any user to master, especially with our extensive About and How To Widget documentation and customized, user-friendly tool icons embedded in the application. 
+  As alluded to earlier,  our app aims to easily inform central Toronto residents of nearby mental health facilities. To facilitate this goal, we have crafted an easy, clear, and intuitive user interface powered by ESRI's Web AppBuilder. We chose this platform as it leverages responsive web design and widget functionality to allow users to easily find the services they are looking for alongside all relevant information by the selected urgency of their mental health needs or by providing their location. Using our app, users can find relevant information in 2 minutes or less, dramtically expediating their process towards receiving the care they need. 
 
-The Mind Health Network utilizes ArcGIS Web AppBuilder to build an accessible platform for users from all walks of life.
 
 ---
 # Steps to Use the App
 
-**Accessing the App**
+**Accessing the App and Widget Details**
 
 View the live web app by clicking on the following the link: https://arcg.is/1ubq55 
 View a video demoing how to work with the app here: https://www.youtube.com/watch?v=wn_w3Duw07k&feature=youtu.be
 
-*How-To Widget Documentation*
+* About and How-To Widget Documentation*
 
-When users first open the Mind Health Network app, they will be greeted by a friendly interface and the unfurled About widget panel on the right. Users may scroll down the panel to read more about the urgency level parameters that help identify their specific type of mental health needs. 
+When users first open the Mind Health Network app, they will be greeted by a message box that will inform them to seek immediate help in the event of a personal crisis and an unfurled About widget panel on the right. Users may scroll down the panel to read more about the urgency level parameters and specific definitions used to group facilities in each category. 
 
-The About widget panel will also include a link to the optional 12 question 123 Survey, which helps to gauge community comments on the quality of mental health services used. There is also another link to the completely confidential and anonymous results of the community-collected information on said mental health services to provide future reference for interested patients or medical providers. Users may also click on the How-To widget, which is located next to the About widget, to learn more about the functionality of each of the tools they can use in this app.
+  The About widget panel will also include a link to the optional 12 question 123 Survey at the end, which helps to gauge community comments on the quality of mental health services used. There is also another link to the completely confidential and anonymous results of the community-collected information on said mental health services to provide future reference for interested patients or medical providers. If the user is still confused or wants further detail about widget functionality, they can click on the How-To widget located, which is located next to the About widget. Here, they will be provided with a detailed breakdown of the functionality of each of the widgets they can use.
 
 **Search for Mental Health Services by Urgency Level**
 
@@ -66,16 +65,17 @@ With the search widget, users can filter the service they’re looking for by ur
 
 **Search for Mental Health Services Near You**
 
-Using a slightly modified version of the Near Me widget, users can find locations within a specified radius (1-5 kilometers) of their current location. Users can edit such distances as they desire using an interactive slider and then see a drop-down of all the locations that meet the specified distance criteria.
+Using a modified version of the Near Me widget, users can find locations within a specified radius (1-5 kilometers) of their current location. Users can edit such distances as they desire using an interactive slider and then see a drop-down of all the locations that meet the specified distance criteria.
 
 **Find Directions to Your Chosen Mental Health Facility**
 
-Using the directions, or Where To, widget, a user can specify an origin and destination for a trip, such as to a mental health service, a mode of transportation (car or walking), and time or distance impedance parameters to create a shortest route path between these two points. As well, users have the option to insert waypoints with the add dialog to factor in brief stops towards their final destination. 
+Using the directions, or Where To widget, a user can specify an origin and destination for a trip, such as to a mental health service, a mode of transportation (car or walking), and time or distance impedance parameters to create a shortest route path between these two points. As well, users have the option to insert waypoints with the add dialog to factor in brief stops towards their final destination. 
 
 *Navigating the Mental Facilities Layers and Sharing!*
 If a user desires to look at all available, top-rated mental health facilities in central Toronto, they may click on the Layer List widget and toggle on and off different types of mental health services available in the region. Users may also look to the Legend widget so that they are able to distinguish between the different types of mental health providers, facilities, and services
 
 ---
+
 # Data Sources
 
 App Development
